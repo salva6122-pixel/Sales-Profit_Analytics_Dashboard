@@ -3,6 +3,7 @@
 An interactive Sales & Profit Analytics Dashboard created using Microsoft Excel to analyze sales performance, profitability, customer sales, products, regions, and payment methods.
 
 🖼️ Dashboard Preview
+
 <img width="1054" height="612" alt="WhatsApp Image 2026-09-28 at 5 38 16 PM" src="https://github.com/user-attachments/assets/2e8141ee-88fa-40dd-80df-1873ad9a7940" />
 
 
