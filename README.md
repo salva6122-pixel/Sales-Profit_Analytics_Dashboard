@@ -7,7 +7,8 @@ An interactive Sales & Profit Analytics Dashboard created using Microsoft Excel 
 
 
 
-<img width="1054" height="612" alt="WhatsApp Image 2026-09-28 at 5 38 16 PM" src="https://github.com/user-attachments/assets/2e8141ee-88fa-40dd-80df-1873ad9a7940" />
+<img width="1101" height="770" alt="Screenshort Salea   Profit Analytics Dashboard " src="https://github.com/user-attachments/assets/3f39a41e-ba44-4554-af9a-df454aba89ca" />
+
 
 
 
